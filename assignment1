@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Jerl Wodford — Basic HTML Page</title>
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <p><strong>Name:</strong> Jerl Wodford </p>
+  <p><strong>Course Name:</strong> (COP4813-0002.fa25) Web Applications Programming </p>
+  <p><strong>Instructor Name:</strong> Dr Ahsan Abdullah </p>
+  <p><strong>Student ID:</strong> 200307602 </p>
+  <p><strong>Date of Submission (mm-dd-yyy):</strong> 09-02-2025 </p>
+  <p>Welcome to my first deployed webpage!</p>
+</body>
+</html>
